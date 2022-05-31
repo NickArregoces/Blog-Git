@@ -8,3 +8,9 @@ body{
     background-color: aquamarine;
     text-align: left;
 }
+.cabecera{
+    background-color: blue;
+}
+.cabecera h1{
+    text-decoration: antiquewhite;
+}
