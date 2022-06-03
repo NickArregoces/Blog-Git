@@ -1,4 +1,4 @@
-git bash here
+GIT BASH here
 
 Estoy realizando un curso de git en platzi
 main 1
